@@ -3,3 +3,4 @@ var meals = {
   lunch: 'avocado',
   dinner: 'avocado'
 };
+console.log(meals.breakfast)
