@@ -1,3 +1,2 @@
-var playlist = { [alison]: 'Slowdive'
-};
+var playlist = {}
 
